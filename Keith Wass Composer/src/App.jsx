@@ -16,8 +16,8 @@ function App() {
 
       <main className="main" style={{ backgroundImage: `url(${buildings})` }}>
         <div className="building-text">
-          <h1>K E I T H&nbsp; &nbsp;W A S S </h1>
-          <h2> C O M P O S E R</h2>
+          <h1>K E I T H &nbsp; &nbsp;W A S S</h1>
+          <h2>C O M P O S E R</h2>
         </div>
       </main>
     </div>
